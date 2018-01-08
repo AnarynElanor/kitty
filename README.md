@@ -22,7 +22,7 @@ Debe verse de la siguiente manera:
 
 
 
-**A 600px de ancho: **
+**A 600px de ancho:**
 
 ![Gato de noche](./assets/images/kitten-night.png)
 
