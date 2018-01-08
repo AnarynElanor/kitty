@@ -1,0 +1,27 @@
+
+@media (max-width: 900px){
+
+	.back{
+		background-image: url("../assets/images/dawn.png");
+	}
+
+	.kitty{
+	    margin-left: 50%;
+	    margin-bottom: 10%;
+		content: url(../assets/images/kitten-medium.png);
+	}
+}
+
+
+@media (max-width: 600px){
+
+	.back{
+		background-image: url("../assets/images/night.jpg");
+	}
+
+	.kitty{
+	    margin-left: 50%;
+	    margin-bottom: 10%;
+		content: url(../assets/images/kitten-small.png);
+	}
+} 
