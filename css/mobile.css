@@ -6,8 +6,8 @@
 	}
 
 	.kitty{
-	    margin-left: 50%;
-	    margin-bottom: 10%;
+	    /*margin-left: 50%;
+	    margin-bottom: 10%;*/
 		content: url(../assets/images/kitten-medium.png);
 	}
 }
@@ -20,8 +20,8 @@
 	}
 
 	.kitty{
-	    margin-left: 50%;
-	    margin-bottom: 10%;
+	    /*margin-left: 50%;
+	    margin-bottom: 10%;*/
 		content: url(../assets/images/kitten-small.png);
 	}
 } 

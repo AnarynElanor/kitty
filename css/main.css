@@ -17,16 +17,18 @@ body{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	height: 100%;
-}
+	height: 100%;	
+	display: flex;
+	align-items: flex-end;
+}	
 
 .container{
 	max-width: 650px;
-	width: 30%;
+	width: 30%;	
+	margin: 0 auto;
 }
 	
 .kitty{
 	width: 100%;
-	margin-left: 80%;
-    margin-top:  90%;
+
 }
