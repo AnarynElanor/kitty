@@ -1,4 +1,4 @@
-#Soft Kitty
+# Soft kitten 		
 		
 
 
@@ -7,26 +7,28 @@ Elaborar una página responsive, de tal manera que al minimizar el área de disp
 Debe verse de la siguiente manera: 
 
 
-A 1200px de ancho: 
+**A 1200px de ancho:** 
 
 ![Gato de día](./assets/images/kitten-sunnyday.png)
 
 
 
 
-A 900px de ancho: 
+**A 900px de ancho:**
+
 ![Gato en la tarde](./assets/images/kitten-dawn.png)
 
 
 
 
 
-A 600px de ancho: 
+**A 600px de ancho: **
+
 ![Gato de noche](./assets/images/kitten-night.png)
 
 
 
-##Proceso
+## Proceso
 
 
 
